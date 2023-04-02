@@ -1,0 +1,5 @@
+Hey ya sabia un tole de git 
+
+>> voy a poner comandos para acordarme que hacen
+
+    git init crea el 
